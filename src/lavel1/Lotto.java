@@ -1,6 +1,6 @@
 package lavel1;
 
-public class lotto {
+public class Lotto {
 
     public static void main(String[] args) {
         solution(new int[]{44, 1, 0, 0, 31, 25}, new int[]{31, 10, 45, 1, 6, 19});

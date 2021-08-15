@@ -3,7 +3,7 @@ package lavel1;
 import java.util.*;
 import java.util.stream.Collectors;
 
-public class fail {
+public class Fail {
     public static void main(String[] args) {
 
         solution(5, new int[]{2, 1, 2, 6, 2, 4, 3, 3});

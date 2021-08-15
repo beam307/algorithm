@@ -4,7 +4,7 @@ import java.util.HashMap;
 import java.util.Locale;
 import java.util.Map;
 
-public class newId {
+public class NewId {
     public static void main(String[] args) {
 
         System.err.println(solution("~!@#$%^&*()=+[{]}:?,<>/"));
